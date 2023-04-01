@@ -1,0 +1,16 @@
+[30-Jan-2019 23:41:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/perfecta/public_html/inwoodfurniture.co.id/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/perfecta/public_html/inwoodfurniture.co.id/wp-content/plugins/hello.php on line 59
+[18-Jul-2020 20:40:37 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/perfecta/public_html/inwoodfurniture.co.id/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/perfecta/public_html/inwoodfurniture.co.id/wp-content/plugins/hello.php on line 59
+[30-Nov-2020 08:11:50 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/perfecta/public_html/inwoodfurniture.co.id/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/perfecta/public_html/inwoodfurniture.co.id/wp-content/plugins/hello.php on line 59
+[30-Nov-2020 08:11:51 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/perfecta/public_html/inwoodfurniture.co.id/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home1/perfecta/public_html/inwoodfurniture.co.id/wp-content/plugins/hello.php on line 59
